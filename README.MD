@@ -14,8 +14,11 @@
 (через Docker або MySQL Workbench)
 
 ### 2. Backend
+
 cd backend
+
 npm install
+
 node server.js
 
 ### 3. Перевірка API
