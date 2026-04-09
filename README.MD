@@ -12,6 +12,12 @@
 
 ### 1. Запуск MySQL
 (через Docker або MySQL Workbench)
+## 🗄️ Ініціалізація бази даних
+
+Виконати SQL-скрипт:
+
+```bash
+mysql -u root -p < database.sql
 
 ### 2. Backend
 
@@ -26,6 +32,7 @@ http://localhost:5001/api/health
 
 ### 4. Запуск клієнта
 python app.py
+
 
 ## 📊 API приклади
 - GET /api/books
