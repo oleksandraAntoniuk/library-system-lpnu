@@ -18,6 +18,7 @@
 
 ```bash
 mysql -u root -p < database.sql
+```
 
 ### 2. Backend
 
